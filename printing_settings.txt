@@ -4,14 +4,30 @@ Cubic for all
 
 
 Corner Guards
+(Weight: 153g ea)
 	- 10 walls
 	- 5 top 5 bottom
 	- 15% infill
 
+(Weight: 108 ea)
+	- 6 walls
+	- 4 top 4 bottom
+	- 10% infill - GYROID
+
 Wheels
-	- 8 Walls
-	-8 top 8 bottom
-	- 15% infill
+	(Weight: 295g total
+		- 8 Walls
+		- 8 top 8 bottom
+		- 15% infill
+	(Weight: 216 total)
+	Front Wheels
+		- 4 Walls
+		- 4 top 4 bottom
+		- 15% infill
+	Back Wheels
+		- 6 Walls
+		- 5 top 5 bottom
+		- 15% infill
 
 Ears
 	- 6 walls
